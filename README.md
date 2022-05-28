@@ -6,4 +6,6 @@ Mapping Methods & Parameters
 
 ## MVC Workflow
 Base Controller Class<br>
-Loading Views
+Loading Views<br>
+Config File & Uploader<br>
+Header & Footer Includes
