@@ -5,4 +5,5 @@ Bootstrap FIle & Core Class<br>
 Mapping Methods & Parameters
 
 ## MVC Workflow
-Base Controller Class
+Base Controller Class<br>
+Loading Views
