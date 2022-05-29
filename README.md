@@ -9,4 +9,6 @@ Base Controller Class<br>
 Loading Views<br>
 Config File & Uploader<br>
 Header & Footer Includes<br>
-The Database Class
+The Database Class 
+> Framework done
+ 

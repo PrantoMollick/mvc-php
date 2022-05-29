@@ -2,15 +2,15 @@
 
     //DB params
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASS', '');
-    define('DB_NAME', 'tmvc');
+    define('DB_USER', '__Your_USER_');
+    define('DB_PASS', '__Your_PASS_');
+    define('DB_NAME', '__Your__DBNAME_');
 
     //App Root
     define('APPROOT', dirname(dirname(__FILE__)));
 
     //URL Root
-    define('URLROOT', 'http://localhost/mvcdesignpattern');
+    define('URLROOT', '_your_URL_');
 
     //Site Name
-    define('SITENAME', 'PrantoMVC');
+    define('SITENAME', '_YOUR_SITENAME');
