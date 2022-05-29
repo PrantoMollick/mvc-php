@@ -8,4 +8,5 @@ Mapping Methods & Parameters
 Base Controller Class<br>
 Loading Views<br>
 Config File & Uploader<br>
-Header & Footer Includes
+Header & Footer Includes<br>
+The Database Class
